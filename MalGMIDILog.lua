@@ -1,9 +1,5 @@
 --[[
-  Reaper Script to accept absolute midi messages and move the edit position to the 
-  percentage of the project length as represented by the midi value. 
-
-  I'm doing this to make the the touchbar on my Alphatrack Frontier work as a jogbar in 
-  conjunction with the CSI project https://forums.cockos.com/showthread.php?t=183143
+  Simple Reaper Script to debug get_action_context values midi values. 
 
   Author : Malcolm Groves
   Repo : github.com/malcolmgroves/reaper_scripts
